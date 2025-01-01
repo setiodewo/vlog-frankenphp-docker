@@ -2,7 +2,7 @@
 
 1.  Install Docker
     ```
-    Referensi: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
+    # Referensi: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 
     sudo apt-get update
     sudo apt-get install ca-certificates curl
